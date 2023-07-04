@@ -1,0 +1,8 @@
+C:\Users\mjsiv\Desktop\option\obj\Debug\net7.0\option.csproj.AssemblyReference.cache
+C:\Users\mjsiv\Desktop\option\obj\Debug\net7.0\option.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjsiv\Desktop\option\obj\Debug\net7.0\option.AssemblyInfoInputs.cache
+C:\Users\mjsiv\Desktop\option\obj\Debug\net7.0\option.AssemblyInfo.cs
+C:\Users\mjsiv\Desktop\option\obj\Debug\net7.0\option.csproj.CoreCompileInputs.cache
+C:\Users\mjsiv\Desktop\option\obj\Debug\net7.0\option.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mjsiv\Desktop\option\obj\Debug\net7.0\option.RazorAssemblyInfo.cache
+C:\Users\mjsiv\Desktop\option\obj\Debug\net7.0\option.RazorAssemblyInfo.cs
